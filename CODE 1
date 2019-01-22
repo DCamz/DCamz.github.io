@@ -1,0 +1,79 @@
+
+body {
+	font-family: "Bitstream Vera Sans",Verdana,Arial,Helvetica,Sans,"Bitstream Vera Serif";
+	font-size: 1em;
+	color: white;
+  background-color: #000d33;
+
+}
+
+
+
+h3 {
+	clear:both;
+	margin-top: 50px;
+	color: white;
+	font-weight:bolder;
+	font-size: 1.5em;
+	letter-spacing:-2px;
+  margin-left: 760px;
+
+}
+
+li {
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: .75px;
+  display:inline-block;
+  margin-left: 100px;
+}
+
+.fish {
+  color: orange;
+  font-weight: bold;
+  padding: 0 30px;
+  margin-top: 40px
+}
+
+#firstList {
+  background-color: #000d33;
+}
+
+.mammal {
+  color: white;
+  font-weight: bold;
+  padding: 0 30px;
+  margin-top: 40px
+}
+
+.bird {
+  color: white;
+  font-weight: bold;
+  padding: 0 30px;
+  margin-top: 40px
+}
+
+.insect {
+  color: brown;
+  font-weight: bold;
+  padding: 0 30px;
+  margin-top: 40px
+}
+
+p {
+  margin-top: 50px;
+  font-weight: bold;
+  margin-left: 760px;
+
+}
+
+img {
+  margin-left: 250px;
+  margin-top: 100px;
+
+}
+a {
+  margin-top: 100px;
+  margin-right: 500px;
+
+}
